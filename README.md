@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**charlesfavourx/charlesfavourx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Charlesfavourx
 
-Here are some ideas to get you started:
+**Exploring Web3. Building useful tools. Learning along the way.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Explore my repositories](https://github.com/charlesfavourx?tab=repositories) · [Follow my journey](https://github.com/charlesfavourx)
+
+</div>
+
+---
+
+### About me
+
+I'm a curious builder at the beginning of my coding journey, interested in Web3 and tools that solve everyday problems. I use this space to share projects, document what I learn, and improve through hands-on experience.
+
+### My approach
+
+- Start with a useful idea and learn the skills to bring it to life.
+- Keep projects clear, documented, and easy to try.
+- Welcome feedback and improve one step at a time.
+
+### What's next
+
+- Exploring how Web3 applications work.
+- Turning practical ideas into small, useful tools.
+- Growing a collection of projects and learning notes as I develop my skills.
+
+---
+
+<div align="center">
+
+Thanks for visiting.
+
+</div>
